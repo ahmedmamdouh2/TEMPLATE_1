@@ -1,0 +1,13 @@
+git init 
+
+git add .
+
+git commit -m "Upload The Design"
+
+git push origin master
+
+git remote add origin https://github.com/ahmedmamdouh2/MY-project.git
+
+git config --global user.name "ahmedmamdouh2" اول مره فقط
+
+git config --global user.email "ahmmmnn69@gmail.com"  اول مره فقط
